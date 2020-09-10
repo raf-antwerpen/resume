@@ -11,3 +11,10 @@ My resume
 2020 - MSc Geophysics <br />
 2017 - BSc Physics
 
+
+## Research Interests
+
+Polar Geophysics
+Sea level rise
+Greenland surface mass balance
+
