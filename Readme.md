@@ -14,7 +14,7 @@ My resume
 
 ## Research Interests
 
-Polar Geophysics
-Sea level rise
+Polar Geophysics <br />
+Sea level rise <br />
 Greenland surface mass balance
 
