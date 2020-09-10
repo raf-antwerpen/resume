@@ -2,7 +2,7 @@
 
 My resume
 
-<img src='dummy.jpg' width=100>
+<img src='photo.jpg' width=200>
 
 
 ## Education
